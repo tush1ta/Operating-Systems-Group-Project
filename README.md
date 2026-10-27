@@ -67,12 +67,12 @@ sudo scripts/demo_limits.sh        # rlimit + cgroup demo
 
 | Member | Module |
 |---|---|
-| Member 1 (lead) | Process monitor, CLI menu, integration, Makefile |
+| Member 1 | Process monitor, CLI menu, integration, Makefile |
 | Member 2 | Priority manager and auto-tuner (CPU part) |
 | Member 3 | Resource manager and auto-tuner (memory part) |
 | Member 4 | Workloads, logging, experiments and graphs |
 
-Replace "Member N" with real names and GitHub usernames.
+
 
 ## Future Enhancements
 
